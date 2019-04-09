@@ -26,3 +26,4 @@ export default function clientMiddleware(client) {
     };
   };
 }
+// https://github.com/erikras/react-redux-universal-hot-example/blob/master/src/redux/middleware/clientMiddleware.js
